@@ -52,7 +52,7 @@
 
 <div align='left'>
   <img alt="Git" src="https://img.shields.io/badge/Git-gray?logo=git">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-kwokzl-blue?logo=github">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-guoPhineas-blue?logo=github">
 </div>
 
 
@@ -61,8 +61,8 @@
 
 <div align='center'>
 <div align='center'>
-<a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=KwokZL' alt="Top Langs"/></a>
+<a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=guoPhineas' alt="Top Langs"/></a>
 <br/>
-<a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api?username=KwokZL&show_icons=true&theme=transparent' alt="Kwok's GitHub stats"/></a>
+<a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api?username=guoPhineas&show_icons=true&theme=transparent' alt="Phineas Guo's GitHub stats"/></a>
 </div>
 </div>
