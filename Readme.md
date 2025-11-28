@@ -2,9 +2,7 @@
 
 
 
-
-
-## I'm a
+## My Technology Stack
 
 
 
@@ -41,11 +39,6 @@
 <div align='left'>
   <img alt="ESP8266" src="https://img.shields.io/badge/ESP8266-gray?logo=espressif">
 </div>
-
-
-
-## I use
-
 
 
 ### DevOps
