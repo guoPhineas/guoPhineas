@@ -64,4 +64,4 @@
   </tr>
 </table>
 
-Join in August 23, 2017. It's been {days} days now.
+Join in August 23, 2017. It's been {years} years now.
