@@ -8,7 +8,7 @@ replace={
     "{days}":f'{delta.days}'
 }
 
-with open("./Readme.md","w+") as file:
+with open("../Readme.md","w+") as file:
     with open("./Readme_template.md","r") as template:
         templateContent=template.read()
         for i in replace:

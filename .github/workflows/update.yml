@@ -24,7 +24,7 @@ jobs:
                 python-version: "3.13"
             - name: Replace and Update
               run: |
-                python update.py
+                python ./update_workflow/update.py
             - name: Push
               run: |
                 git config user.name "Phineas Guo"
