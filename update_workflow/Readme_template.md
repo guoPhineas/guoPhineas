@@ -59,7 +59,7 @@
       <a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api?username=guoPhineas&show_icons=true&theme=transparent' alt="Phineas Guo's GitHub stats"/></a>
     </td>
     <td>
-      <a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=guoPhineas' alt="Top Langs"/></a>
+      <a href='https://github-readme-stats.vercel.app/api/top-langs/?username=guoPhineas&layout=compact' alt="Top Langs"/></a>
     </td>
   </tr>
 </table>
