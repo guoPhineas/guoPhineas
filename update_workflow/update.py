@@ -2,10 +2,10 @@ import datetime
 
 joinDate=datetime.date.fromisoformat("2017-08-23")
 today=datetime.date.today()
-delta=today-joinDate
+deltaYear=today.year-joinDate.year
 
 replace={
-    "{days}":f'{delta.days}'
+    "{years}":f'{deltaYear}'
 }
 
 with open("./Readme.md","w+") as file:
