@@ -8,8 +8,8 @@ replace={
     "{days}":f'{delta.days}'
 }
 
-with open("../Readme.md","w+") as file:
-    with open("./Readme_template.md","r") as template:
+with open("./Readme.md","w+") as file:
+    with open("./update_workflow/Readme_template.md","r") as template:
         templateContent=template.read()
         for i in replace:
             newContent=templateContent.replace(i,replace[i])
