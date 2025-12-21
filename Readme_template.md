@@ -1,4 +1,4 @@
-<div align='center'><h1>Hello, World!<br/>🎉🎉🎉</h1></div>
+<div align='center'><h1>👋 Hi there!<br/></h1></div>
 
 
 
@@ -56,12 +56,13 @@
 <table>
   <tr>
     <td>
-      <a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=guoPhineas' alt="Top Langs"/></a>
+      <a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api?username=guoPhineas&show_icons=true&theme=transparent' alt="Phineas Guo's GitHub stats"/></a>
     </td>
     <td>
-      <a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api?username=guoPhineas&show_icons=true&theme=transparent' alt="Phineas Guo's GitHub stats"/></a>
+      <a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=guoPhineas' alt="Top Langs"/></a>
     </td>
   </tr>
 </table>
+
 
 Join in August 23, 2017. It's been {days} days now.
