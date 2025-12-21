@@ -6,7 +6,7 @@
 
 
 
-### iOS and macOS Developer
+### iOS and macOS
 
 <div align='left'>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-gray?logo=swift">
@@ -14,7 +14,7 @@
 
 
 
-### Web Developer
+### Web
 
 <div align='left'>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-gray?logo=php">
@@ -25,7 +25,7 @@
 
 
 
-### Python Developer
+### Python
 
 <div align='left'>
   <img alt="Python" src="https://img.shields.io/badge/Python-gray?logo=python">
@@ -34,7 +34,7 @@
 
 
 
-### Embedded Developer
+### Embedded
 
 <div align='left'>
   <img alt="ESP8266" src="https://img.shields.io/badge/ESP8266-gray?logo=espressif">
@@ -49,13 +49,19 @@
 </div>
 
 
-
 ## Other
 
-<div align='center'>
-<div align='center'>
-<a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=guoPhineas' alt="Top Langs"/></a>
-<br/>
-<a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api?username=guoPhineas&show_icons=true&theme=transparent' alt="Phineas Guo's GitHub stats"/></a>
-</div>
-</div>
+
+
+<table>
+  <tr>
+    <td>
+      <a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=guoPhineas' alt="Top Langs"/></a>
+    </td>
+    <td>
+      <a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api?username=guoPhineas&show_icons=true&theme=transparent' alt="Phineas Guo's GitHub stats"/></a>
+    </td>
+  </tr>
+</table>
+
+Join in August 23, 2017. It's been 3042 days now.
